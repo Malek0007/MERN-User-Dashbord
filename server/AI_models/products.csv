@@ -1,0 +1,310 @@
+_id,name,price,description,category,rating,supply
+63701d24f03239c72c00018e,Router-Aggregator,311.71,High-performance router for data aggregation,networking,4.15,1320
+63701d24f03239c72c00018f,Switch-TopRack,649.77,Top of rack switch for data center distribution,networking,4.84,633
+63701d24f03239c72c000190,LoadBalancer-TrafficManager,576.06,Traffic load balancer for high availability,networking,4.48,977
+63701d24f03239c72c000191,Firewall-EdgeProtector,77.54,Firewall for edge security and traffic control,security,4.72,190
+63701d24f0323986f300012a,StorageArray-BlockStore,517.21,High-capacity block storage array for large data sets,storage,3.53,1235
+63701d24f0323986f300012b,Server-BladeCompute,408.58,Blade server for efficient compute performance,compute,3.93,1011
+63701d24f03239b7f7000015,UPS-PowerBackup,555.73,Uninterruptible Power Supply for backup power,power management,4.5,880
+63701d24f03239b7f7000016,Hypervisor-VirtualizationManager,269.45,Hypervisor for managing virtualized environments,virtualization,4.83,1101
+63701d24f03239b7f7000017,Monitoring-NetworkObserver,642.61,Network monitoring tool for performance tracking,monitoring,4.96,736
+63701d24f03239b7f7000018,Storage-SANController,949.37,Storage Area Network controller for managing storage,storage,4.56,1026
+63701d24f032390a34000327,Switch-CoreNetwork,530.86,High-performance core switch for network backbone,networking,1.53,450
+63701d24f032390a34000328,CableManagement-System,934.46,Efficient cable management system for data centers,accessories,2.64,480
+63701d24f032390a34000329,Firewall-SecurityShield,867.33,Advanced firewall for network protection,security,3.89,1164
+63701d24f032390a3400032a,LoadBalancer-TrafficBalancer,22.98,Traffic load balancer for network optimization,networking,3.26,617
+63701d24f032395b3300012a,PatchPanel-RackMount,607.7,Rack-mountable patch panel for network cabling,networking,2.71,385
+63701d24f032395b3300012b,KVM-SwitchController,988.4,KVM switch for remote server management,monitoring,2.54,314
+63701d24f032395b3300012c,Server-RackMountBlade,786.02,Rack-mountable blade server for compute performance,compute,1.11,858
+63701d24f032395b3300012d,PowerDistributionUnit,211.21,Power distribution unit for efficient power management,power management,4.98,1185
+63701d25f03239d591000327,CoolingSystem-AdvancedFan,247.93,Advanced cooling system for optimized data center cooling,accessories,1.17,659
+63701d25f03239d591000328,UPS-BackupPowerSystem,342.56,Uninterruptible Power Supply for backup power management,power management,1.43,157
+63701d25f03239d591000329,NetworkAnalyzer-DataProbe,379.85,Network analyzer for data traffic analysis,monitoring,4.21,850
+63701d25f03239d59100032a,CloudStorage-SpaceSaver,788.62,Cloud storage solution for scalable data management,storage,4.67,920
+63701d25f03239d59100032b,AccessPoint-WiFiPlus,189.34,High-speed WiFi access point for large spaces,networking,4.04,1100
+63701d25f03239d59100032c,Server-RackMountUnit,635.45,Server rack mount unit for efficient space utilization,compute,3.92,675
+63701d25f03239d59100032d,BackupGenerator-EcoPower,1120.77,Backup generator for emergency power supply,power management,4.58,260
+63701d25f03239d59100032e,EnvironmentalMonitor-TempSensor,456.99,Environmental monitor for temperature and humidity,monitoring,4.3,515
+63701d25f03239d59100032f,SecurityCamera-360View,399.54,360-degree security camera for comprehensive surveillance,security,4.7,740
+63701d25f03239d591000330,LoadBalancer-HighPerfBalancer,275.66,High-performance load balancer for advanced traffic management,networking,4.66,590
+63701d25f03239d591000331,Router-EdgeRouterX,293.75,Edge router for optimized network performance,networking,4.23,980
+63701d25f03239d591000332,Server-HighCapacity,1347.89,High-capacity server for demanding applications,compute,4.85,350
+63701d25f03239d591000333,DataCenterCooling-System,657.32,Advanced cooling system for large data centers,accessories,4.1,290
+63701d25f03239d591000334,NetworkSwitch-MultiGig,743.29,Multi-gigabit network switch for high-speed connectivity,networking,4.52,410
+63701d25f03239d591000335,Storage-HighSpeedSSD,1123.47,High-speed SSD for fast data access,storage,4.78,670
+63701d25f03239d591000336,Server-ClusterManager,859.99,Server for managing clustered environments,compute,4.66,520
+63701d25f03239d591000337,PowerSupply-Redundant,394.88,Redundant power supply for high availability,power management,4.55,160
+63701d25f03239d591000338,Firewall-NextGenProtector,978.44,Next-generation firewall for enhanced security,security,4.9,290
+63701d25f03239d591000339,UPS-MultiOutput,662.98,UPS with multiple output configurations for flexible power management,power management,4.35,340
+63701d25f03239d59100033a,NetworkSwitch-EdgeSeries,414.67,Edge series network switch for scalable connectivity,networking,4.15,620
+63701d25f03239d591000332,Server-HighCapacity,1347.89,High-capacity server for demanding applications,compute,4.85,350
+63701d25f03239d591000333,DataCenterCooling-System,657.32,Advanced cooling system for large data centers,accessories,4.1,290
+63701d25f03239d591000334,NetworkSwitch-MultiGig,743.29,Multi-gigabit network switch for high-speed connectivity,networking,4.52,410
+63701d25f03239d591000335,Storage-HighSpeedSSD,1123.47,High-speed SSD for fast data access,storage,4.78,670
+63701d25f03239d591000336,Server-ClusterManager,859.99,Server for managing clustered environments,compute,4.66,520
+63701d25f03239d591000337,PowerSupply-Redundant,394.88,Redundant power supply for high availability,power management,4.55,160
+63701d25f03239d591000338,Firewall-NextGenProtector,978.44,Next-generation firewall for enhanced security,security,4.9,290
+63701d25f03239d591000339,UPS-MultiOutput,662.98,UPS with multiple output configurations for flexible power management,power management,4.35,340
+63701d25f03239d59100033a,NetworkSwitch-EdgeSeries,414.67,Edge series network switch for scalable connectivity,networking,4.15,620
+63701d25f03239d59100033b,Server-DataWarehouse,1583.59,High-performance server for data warehousing,compute,4.72,290
+63701d25f03239d59100033c,DataEncryption-Module,529.94,Module for data encryption and security,security,4.62,470
+63701d25f03239d59100033d,PowerDistribution-Advanced,678.85,Advanced power distribution unit with multiple outlets,power management,4.4,205
+63701d25f03239d59100033e,NetworkCable-HighSpeed,52.67,High-speed network cables for reliable connectivity,accessories,4.25,950
+63701d25f03239d59100033f,Server-EdgeCompute,743.15,Edge computing server for low-latency applications,compute,4.6,400
+63701d25f03239d591000340,UPS-SmartBackup,431.19,Smart UPS for efficient backup power and management,power management,4.49,220
+63701d25f03239d591000341,Storage-CloudHybrid,888.54,Hybrid cloud storage solution for flexible data management,storage,4.83,340
+63701d25f03239d591000342,SecurityScanner-VulnCheck,511.43,Vulnerability scanner for network and system security,security,4.77,360
+63701d25f03239d591000343,NetworkRouter-GigabitPro,689.55,Gigabit router for high-speed data transfer,networking,4.68,570
+63701d25f03239d591000344,CoolingSystem-HVAC,1479.38,HVAC cooling system for large data centers,accessories,4.6,150
+63701d25f03239d591000339,UPS-MultiOutput,662.98,UPS with multiple output configurations for flexible power management,power management,4.35,340
+63701d25f03239d59100033a,NetworkSwitch-EdgeSeries,414.67,Edge series network switch for scalable connectivity,networking,4.15,620
+63701d25f03239d59100033b,Server-CloudOptimized,732.99,Cloud-optimized server for high-performance computing,compute,4.77,450
+63701d25f03239d59100033c,PowerManager-SmartControl,518.80,Smart power management system for energy efficiency,power management,4.61,290
+63701d25f03239d59100033d,DataStorage-NetworkAttached,912.54,Network-attached storage solution for collaborative environments,storage,4.69,540
+63701d25f03239d59100033e,Router-EnterpriseModel,599.89,Enterprise-grade router for robust network performance,networking,4.54,320
+63701d25f03239d59100033f,SecurityCamera-Infrared,327.11,Infrared security camera for low-light surveillance,security,4.68,510
+63701d25f03239d591000340,LoadBalancer-GlobalScale,389.42,Global scale load balancer for distributed network traffic management,networking,4.49,230
+63701d25f03239d591000341,DataCenterCooling-Precision,874.90,Precision cooling system for data center temperature control,accessories,4.57,170
+63701d25f03239d591000342,Firewall-DataGuard,655.12,Firewall with advanced data protection features,security,4.81,410
+63701d25f03239d591000343,Server-HighDensity,1248.56,High-density server for compact and efficient data processing,compute,4.79,280
+63701d25f03239d591000344,NetworkSwitch-HighCapacity,502.36,High-capacity network switch for extensive network environments,networking,4.44,560
+63701d25f03239d591000345,Storage-SSDArray,1189.99,Array of high-speed SSDs for rapid data access,storage,4.82,430
+63701d25f03239d591000346,PowerBackup-Industrial,1165.24,Industrial-grade power backup system for critical operations,power management,4.67,120
+63701d25f03239d591000347,Monitoring-DataInsights,786.43,Data insights monitoring tool for in-depth analysis,monitoring,4.72,310
+63701d25f03239d591000348,Router-AdvancedMesh,452.11,Advanced mesh router for extended network coverage,networking,4.23,490
+63701d25f03239d591000349,Firewall-CloudProtector,923.56,Cloud-based firewall for enhanced online security,security,4.88,150
+63701d25f03239d59100034a,Storage-DiskArray,670.77,Disk array system for high-capacity data storage,storage,4.45,660
+63701d25f03239d59100034b,Server-DataCenterRack,1147.94,Data center rack server for optimized space and performance,compute,4.71,390
+63701d25f03239d59100034c,PowerManager-EnergySaver,275.99,Energy-saving power management unit for cost efficiency,power management,4.53,520
+63701d25f03239d59100034d,Router-MultiGig,721.34,Multi-gigabit router for high-speed network connections,networking,4.65,290
+63701d25f03239d59100034e,Server-EdgeCompute,855.22,Edge computing server for low-latency processing,compute,4.73,320
+63701d25f03239d59100034f,Storage-EnterpriseNAS,1012.67,Enterprise NAS solution for large-scale storage,storage,4.8,410
+63701d25f03239d591000350,PowerManager-GridSync,369.54,Grid synchronization power manager for stable energy distribution,power management,4.61,340
+63701d25f03239d591000351,DataCenterCooling-ClimateControl,782.25,Climate control cooling system for data center efficiency,accessories,4.64,200
+63701d25f03239d591000352,NetworkSwitch-PoE,495.23,Power over Ethernet switch for efficient power delivery,networking,4.53,370
+63701d25f03239d591000353,Firewall-WebShield,1124.09,Advanced web security firewall for comprehensive protection,security,4.89,180
+63701d25f03239d591000354,Monitoring-NetworkAnalytics,452.78,Network analytics tool for detailed performance insights,monitoring,4.57,260
+63701d25f03239d591000355,Router-VPNSecure,699.99,Router with integrated VPN for secure network access,networking,4.69,150
+63701d25f03239d591000356,Server-HighPerformance,1299.43,High-performance server for intensive computing tasks,compute,4.82,210
+63701d25f03239d591000357,Storage-RedundantArray,945.67,Redundant storage array for reliable data protection,storage,4.74,320
+63701d25f03239d591000358,PowerSupply-HighEfficiency,499.88,High-efficiency power supply for optimized energy usage,power management,4.66,280
+63701d25f03239d591000359,DataCenterCooling-EcoSystem,812.12,Eco-friendly cooling system for sustainable data center management,accessories,4.71,190
+63701d25f03239d59100035a,NetworkSwitch-Managed,633.47,Managed network switch for advanced configuration and control,networking,4.52,410
+63701d25f03239d59100035b,Firewall-NetworkGuardian,956.77,Network guardian firewall for robust network security,security,4.85,220
+63701d25f03239d59100035c,Monitoring-TrafficAnalyzer,398.55,Traffic analyzer for monitoring and optimizing network performance,monitoring,4.68,300
+63701d25f03239d59100035d,Router-GigabitPro,489.76,Gigabit router for high-speed internet connectivity,networking,4.55,470
+63701d25f03239d59100035e,Server-RackOptimized,944.39,Rack-optimized server for space-efficient deployments,compute,4.78,340
+63701d25f03239d59100035f,Storage-HighCapacitySSD,1225.99,High-capacity SSD for rapid data retrieval and storage,storage,4.83,270
+63701d25f03239d591000360,PowerManager-LoadBalancer,322.45,Load-balancing power manager for efficient energy distribution,power management,4.6,350
+63701d25f03239d591000361,DataCenterCooling-DualFan,567.89,Dual-fan cooling system for enhanced airflow in data centers,accessories,4.59,250
+63701d25f03239d591000362,NetworkSwitch-10G,789.32,10-gigabit network switch for ultra-fast data transfer,networking,4.67,310
+63701d25f03239d591000363,Firewall-AdvancedProtector,1139.88,Advanced firewall for top-tier network protection,security,4.91,170
+63701d25f03239d591000364,Monitoring-ServerHealth,678.11,Server health monitoring tool for proactive maintenance,monitoring,4.74,210
+63701d25f03239d591000365,Router-SmartMesh,587.45,Smart mesh router for flexible and scalable network design,networking,4.62,380
+63701d25f03239d591000366,Server-DataProcessing,1024.56,Server optimized for high-speed data processing,compute,4.77,230
+63701d25f03239d591000367,Storage-FlashArray,895.23,Flash array storage for fast and reliable data access,storage,4.75,360
+63701d25f03239d591000368,PowerSupply-BackupUnit,431.99,Backup power supply unit for emergency power needs,power management,4.54,300
+63701d25f03239d591000369,DataCenterCooling-PrecisionFan,698.99,Precision fan cooling system for targeted data center cooling,accessories,4.68,190
+63701d25f03239d59100036a,Router-NextGen,839.45,Next-generation router with advanced features for superior connectivity,networking,4.76,230
+63701d25f03239d59100036b,Server-DataWarehouse,1399.55,High-capacity server designed for data warehousing and large datasets,compute,4.85,150
+63701d25f03239d59100036c,Storage-FlashStorage,1125.99,Flash storage solution for ultra-fast data access and reliability,storage,4.8,290
+63701d25f03239d59100036d,PowerManager-DynamicControl,459.89,Dynamic power management system for optimized energy control,power management,4.67,320
+63701d25f03239d59100036e,DataCenterCooling-ActiveSystem,903.77,Active cooling system for precise temperature control in data centers,accessories,4.73,180
+63701d25f03239d59100036f,NetworkSwitch-HighPerformance,567.88,High-performance network switch for demanding network environments,networking,4.69,260
+63701d25f03239d591000370,Firewall-DataDefender,1048.23,Data defender firewall with comprehensive security features,security,4.84,140
+63701d25f03239d591000371,Monitoring-PerformanceTracker,589.12,Performance tracking tool for monitoring network efficiency,monitoring,4.76,220
+63701d25f03239d591000372,Router-SecureAccess,469.98,Router with enhanced security features for secure network access,networking,4.63,300
+63701d25f03239d591000373,Server-HighCapacity,1199.42,High-capacity server for large-scale computing and storage,compute,4.8,190
+63701d25f03239d591000374,Storage-RAIDSystem,980.45,RAID system for data redundancy and high-speed access,storage,4.77,340
+63701d25f03239d591000375,PowerSupply-EnergyEfficient,489.67,Energy-efficient power supply unit for cost-effective power management,power management,4.62,280
+63701d25f03239d591000376,DataCenterCooling-PrecisionCool,735.80,Precision cooling unit for targeted temperature regulation,accessories,4.66,200
+63701d25f03239d591000377,NetworkSwitch-Scalable,677.55,Scalable network switch for growing network infrastructures,networking,4.7,240
+63701d25f03239d591000378,Firewall-EnhancedShield,1189.44,Enhanced firewall for robust network and data security,security,4.88,130
+63701d25f03239d591000379,Monitoring-NetworkHealth,412.25,Network health monitoring tool for proactive system management,monitoring,4.69,310
+63701d25f03239d59100037a,Router-HighSpeed,629.99,High-speed router for optimal internet performance,networking,4.72,270
+63701d25f03239d59100037b,Server-ClusterOptimized,1145.88,Server optimized for cluster environments and distributed computing,compute,4.76,220
+63701d25f03239d59100037c,Storage-SSDPro,1150.76,Professional SSD storage solution for high-demand applications,storage,4.82,230
+63701d25f03239d59100037d,PowerManager-SmartEnergy,379.99,Smart energy management system for efficient power use,power management,4.68,310
+63701d25f03239d59100037e,DataCenterCooling-EfficientFan,655.44,Efficient cooling fan for reducing data center heat,accessories,4.61,250
+63701d25f03239d59100037f,NetworkSwitch-GigabitPro,749.32,Gigabit switch for high-speed network connectivity,networking,4.68,280
+63701d25f03239d591000380,Firewall-SecureNet,928.91,SecureNet firewall for advanced network protection,security,4.83,190
+63701d25f03239d591000381,Monitoring-SystemMonitor,648.23,System monitoring tool for comprehensive network oversight,monitoring,4.75,240
+63701d25f03239d591000382,Router-AdvancedSecurity,719.00,Router with advanced security protocols for enhanced protection,networking,4.74,260
+63701d25f03239d591000383,Server-DataProcessingUnit,1089.77,Data processing unit server for high-speed and efficient operations,compute,4.79,210
+63701d25f03239d591000384,Storage-NetworkDrive,844.66,Network drive for shared and collaborative storage solutions,storage,4.71,270
+63701d25f03239d591000385,PowerSupply-ReliableUnit,349.99,Reliable power supply unit for stable energy distribution,power management,4.63,300
+63701d25f03239d591000386,DataCenterCooling-DualSystem,798.24,Dual cooling system for enhanced data center temperature management,accessories,4.69,220
+63701d25f03239d591000387,Router-Enterprise,1199.88,Enterprise-grade router for large-scale network management,networking,4.91,140
+63701d25f03239d591000388,Server-HighPerformance,1320.25,High-performance server for demanding computing tasks,compute,4.83,190
+63701d25f03239d591000389,Storage-NetworkAttached,1025.50,Network-attached storage for seamless data sharing,storage,4.78,280
+63701d25f03239d59100038a,PowerManagement-Optimal,429.34,Optimal power management system for energy efficiency,power management,4.69,300
+63701d25f03239d59100038b,DataCenterCooling-InnovativeCool,863.15,Innovative cooling system for efficient data center temperature control,accessories,4.77,190
+63701d25f03239d59100038c,NetworkSwitch-AdvancedLayer3,799.60,Advanced Layer 3 switch for complex networking needs,networking,4.72,220
+63701d25f03239d59100038d,Firewall-CyberGuard,1205.40,CyberGuard firewall with top-tier network security features,security,4.85,160
+63701d25f03239d59100038e,Monitoring-InsightTracker,550.25,Insightful tracking tool for network performance analysis,monitoring,4.82,210
+63701d25f03239d59100038f,Router-FastConnect,699.99,Fast-connect router for high-speed internet access,networking,4.78,270
+63701d25f03239d591000390,Server-EnterpriseBlade,1450.90,Enterprise blade server designed for high-capacity tasks,compute,4.87,150
+63701d25f03239d591000391,Storage-DataDepot,1200.85,Data depot storage solution for extensive data management,storage,4.79,240
+63701d25f03239d591000392,PowerManager-Advanced,490.00,Advanced power management unit for optimized energy control,power management,4.68,280
+63701d25f03239d591000393,DataCenterCooling-PrecisionCooler,785.90,Precision cooler for accurate temperature management in data centers,accessories,4.71,220
+63701d25f03239d591000394,NetworkSwitch-DataCenterPro,872.35,Data center switch with high-speed connectivity features,networking,4.74,230
+63701d25f03239d591000395,Firewall-SecureGuard,1015.65,SecureGuard firewall with advanced protection capabilities,security,4.87,170
+63701d25f03239d591000396,Monitoring-NetworkManager,621.50,Network manager tool for overseeing and optimizing performance,monitoring,4.81,190
+63701d25f03239d591000397,Router-HighBandwidth,775.00,High-bandwidth router for superior data transmission,networking,4.76,240
+63701d25f03239d591000398,Server-CloudOptimized,1390.99,Cloud-optimized server for efficient cloud-based computing,compute,4.84,180
+63701d25f03239d591000399,Storage-EnterpriseSSD,1050.45,Enterprise-grade SSD for high-speed and reliable storage,storage,4.83,210
+63701d25f03239d59100039a,PowerManager-SmartControl,409.99,Smart control power management unit for energy efficiency,power management,4.72,290
+63701d25f03239d59100039b,DataCenterCooling-MaxCool,920.65,MaxCool system for exceptional data center cooling,accessories,4.74,200
+63701d25f03239d59100039c,NetworkSwitch-OptiNet,625.45,Optimized network switch for reliable connectivity,networking,4.7,250
+63701d25f03239d59100039d,Firewall-NetProtect,1105.55,NetProtect firewall offering comprehensive network security,security,4.8,150
+63701d25f03239d59100039e,Monitoring-CompleteView,572.95,Complete network view monitoring tool for detailed analysis,monitoring,4.79,230
+63701d25f03239d59100039f,Router-SuperSpeed,689.99,SuperSpeed router for ultra-fast internet connections,networking,4.77,260
+63701d25f03239d5910003a0,Server-DataCore,1375.20,DataCore server for core data management and processing,compute,4.82,170
+63701d25f03239d5910003a1,Storage-CloudStorage,950.75,Cloud storage solution for scalable and secure data access,storage,4.8,220
+63701d25f03239d5910003a2,PowerManager-EnergyWise,355.90,Energy-wise power management system for cost-effective energy use,power management,4.69,310
+63701d25f03239d5910003a3,DataCenterCooling-AeroCool,754.30,AeroCool cooling system for efficient temperature regulation,accessories,4.72,240
+63701d25f03239d5910003a4,NetworkSwitch-MegaSwitch,735.20,MegaSwitch network switch for high-capacity networking,networking,4.74,250
+63701d25f03239d5910003a5,Firewall-SafeNet,1089.30,SafeNet firewall with cutting-edge security features,security,4.86,160
+63701d25f03239d5910003a6,Monitoring-PerformanceMax,662.40,PerformanceMax monitoring tool for peak network performance,monitoring,4.83,200
+63701d25f03239d5910003a7,Router-UltraConnect,799.90,UltraConnect router for optimal network connectivity,networking,4.75,270
+63701d25f03239d5910003a8,Server-VirtualBlade,1245.50,VirtualBlade server optimized for virtualization tasks,compute,4.79,180
+63701d25f03239d5910003a9,Storage-RedundantArray,1170.65,Redundant array storage solution for data reliability,storage,4.81,230
+63701d25f03239d5910003aa,PowerManager-Efficient,430.00,Efficient power management unit for streamlined energy use,power management,4.7,290
+63701d25f03239d5910003ab,DataCenterCooling-TurboCool,856.80,TurboCool system for high-efficiency data center cooling,accessories,4.76,220
+63701d25f03239d5910003ac,NetworkSwitch-PremiumNet,665.99,PremiumNet switch for top-tier network performance,networking,4.78,240
+63701d25f03239d5910003ad,Firewall-NetShield,1190.75,NetShield firewall offering extensive network protection,security,4.88,150
+63701d25f03239d5910003ae,Monitoring-InsightPro,630.50,InsightPro tool for detailed network performance insights,monitoring,4.81,210
+63701d25f03239d5910003af,Router-MaxSpeed,890.99,MaxSpeed router for maximum network throughput,networking,4.85,250
+63701d25f03239d5910003b0,Server-DataServerPro,1280.30,DataServerPro for professional-grade data management,compute,4.8,190
+63701d25f03239d5910003b1,Storage-SSDUltra,1105.70,Ultra SSD for high-speed data access and storage,storage,4.82,230
+63701d25f03239d5910003b2,PowerManager-PowerBoost,385.60,PowerBoost management system for enhanced power control,power management,4.75,320
+63701d25f03239d5910003b3,DataCenterCooling-PremiumCool,790.55,PremiumCool system for superior cooling efficiency,accessories,4.73,210
+63701d25f03239d5910003b4,NetworkSwitch-HighCapacity,699.45,HighCapacity switch designed for large networks,networking,4.77,260
+63701d25f03239d5910003b5,Firewall-SecureWave,1225.60,SecureWave firewall with enhanced protection features,security,4.89,140
+63701d25f03239d5910003b6,Monitoring-CompleteGuard,580.75,CompleteGuard tool for comprehensive network monitoring,monitoring,4.8,220
+63701d25f03239d5910003b7,Router-FiberOptic,745.00,FiberOptic router for ultra-fast internet connectivity,networking,4.81,270
+63701d25f03239d5910003b8,Server-ComputeMaster,1365.55,ComputeMaster server for high-efficiency computing,compute,4.84,180
+63701d25f03239d5910003b9,Storage-DataVault,1130.40,DataVault storage for secure and reliable data handling,storage,4.8,240
+63701d25f03239d5910003ba,PowerManager-EnergyGuard,420.75,EnergyGuard power unit for optimal energy usage,power management,4.73,310
+63701d25f03239d5910003bb,DataCenterCooling-ExtremeCool,850.25,ExtremeCool system for high-performance cooling,accessories,4.78,220
+63701d25f03239d5910003bc,NetworkSwitch-EnterpriseSwitch,785.00,EnterpriseSwitch with advanced networking capabilities,networking,4.79,250
+63701d25f03239d5910003bd,Firewall-TotalProtect,1150.90,TotalProtect firewall for all-encompassing network security,security,4.88,160
+63701d25f03239d5910003be,Monitoring-AdvancedMonitor,596.40,AdvancedMonitor for detailed network performance analysis,monitoring,4.82,210
+63701d25f03239d5910003bf,Router-VirtualConnect,799.99,VirtualConnect router for enhanced virtual networking,networking,4.76,280
+63701d25f03239d5910003c0,Server-PowerBlade,1420.70,PowerBlade server for intensive computing tasks,compute,4.85,170
+63701d25f03239d5910003c1,Storage-NextGenSSD,1120.60,NextGen SSD with next-level performance and reliability,storage,4.83,230
+63701d25f03239d5910003c2,PowerManager-TotalEnergy,430.90,TotalEnergy power management for comprehensive power control,power management,4.71,300
+63701d25f03239d5910003c3,DataCenterCooling-CoolMaster,885.10,CoolMaster cooling system for exceptional temperature control,accessories,4.77,240
+63701d25f03239d5910003c4,NetworkSwitch-SuperNet,695.20,SuperNet switch for high-performance network management,networking,4.8,260
+63701d25f03239d5910003c5,Firewall-NetSafe,1190.85,NetSafe firewall for robust network protection,security,4.87,150
+63701d25f03239d5910003c6,Monitoring-NetInsight,612.30,NetInsight monitoring tool for detailed network visibility,monitoring,4.84,230
+63701d25f03239d5910003c7,Router-HighRange,720.50,HighRange router for extended network coverage,networking,4.72,270
+63701d25f03239d5910003c8,Server-CloudServerElite,1400.40,CloudServerElite for superior cloud computing,compute,4.86,180
+63701d25f03239d5910003c9,Storage-HighSpeedSSD,1075.90,HighSpeed SSD for rapid data access and performance,storage,4.79,240
+63701d25f03239d5910003ca,PowerManager-OptimalPower,399.95,OptimalPower unit for efficient energy management,power management,4.74,320
+63701d25f03239d5910003cb,DataCenterCooling-SuperCool,805.25,SuperCool system for advanced cooling solutions,accessories,4.75,230
+63701d25f03239d5910003cc,NetworkSwitch-TopTier,740.40,TopTier switch for high-capacity networking,networking,4.8,250
+63701d25f03239d5910003cd,Firewall-CompleteSecure,1215.90,CompleteSecure firewall for comprehensive network defense,security,4.88,140
+63701d25f03239d5910003ce,Monitoring-TotalView,645.60,TotalView monitoring tool for complete network insights,monitoring,4.82,220
+63701d25f03239d5910003cf,Router-ExtremeSpeed,849.99,ExtremeSpeed router for unparalleled data transfer rates,networking,4.8,280
+63701d25f03239d5910003d0,Server-UltraCompute,1395.70,UltraCompute server for high-performance computing,compute,4.83,190
+63701d25f03239d5910003d1,Storage-PremiumDrive,1150.30,PremiumDrive for high-capacity and reliable storage,storage,4.82,250
+63701d25f03239d5910003d2,PowerManager-TotalControl,410.90,TotalControl power unit for advanced energy management,power management,4.71,310
+63701d25f03239d5910003d3,DataCenterCooling-OptimalCool,825.70,OptimalCool cooling system for efficient data center temperature regulation,accessories,4.76,220
+63701d25f03239d5910003d4,NetworkSwitch-SuperSpeedNet,710.25,SuperSpeedNet switch for high-performance networking,networking,4.79,260
+63701d25f03239d5910003d5,Firewall-TotalDefense,1185.90,TotalDefense firewall with extensive security features,security,4.87,150
+63701d25f03239d5910003d6,Monitoring-PrimeInsight,625.55,PrimeInsight monitoring tool for in-depth network analysis,monitoring,4.81,230
+63701d25f03239d5910003d7,Router-GlobalConnect,759.00,GlobalConnect router for worldwide network accessibility,networking,4.77,270
+63701d25f03239d5910003d8,Server-HighPerformanceBlade,1345.80,HighPerformanceBlade server for efficient computing,compute,4.84,180
+63701d25f03239d5910003d9,Storage-DataSafe,1215.45,DataSafe storage for secure and dependable data management,storage,4.81,230
+63701d25f03239d5910003da,PowerManager-EnergyMaster,399.00,EnergyMaster for effective power management and control,power management,4.73,320
+63701d25f03239d5910003db,DataCenterCooling-CoolerPro,865.30,CoolerPro cooling system for advanced data center cooling,accessories,4.78,210
+63701d25f03239d5910003dc,NetworkSwitch-VisionNet,685.60,VisionNet switch for enhanced network performance,networking,4.8,250
+63701d25f03239d5910003dd,Firewall-CyberShield,1170.90,CyberShield firewall for top-notch network security,security,4.86,160
+63701d25f03239d5910003de,Monitoring-InsightPlus,590.70,InsightPlus tool for comprehensive network performance tracking,monitoring,4.82,220
+63701d25f03239d5910003df,Router-SuperRange,770.00,SuperRange router for extended connectivity and coverage,networking,4.75,260
+63701d25f03239d5910003e0,Server-PremiumCompute,1415.90,PremiumCompute server for high-capacity computing tasks,compute,4.87,190
+63701d25f03239d5910003e1,Storage-TopTierDrive,1099.40,TopTierDrive for high-speed and reliable data storage,storage,4.79,250
+63701d25f03239d5910003e2,PowerManager-MaxEfficiency,420.90,MaxEfficiency unit for superior energy management,power management,4.72,310
+63701d25f03239d5910003e3,DataCenterCooling-UltraCool,900.55,UltraCool cooling system for advanced temperature control,accessories,4.74,220
+63701d25f03239d5910003e4,NetworkSwitch-AdvancedNet,725.30,AdvancedNet switch for high-efficiency networking,networking,4.77,260
+63701d25f03239d5910003e5,Firewall-CompleteGuard,1195.85,CompleteGuard firewall for comprehensive network protection,security,4.88,150
+63701d25f03239d5910003e6,Monitoring-ProInsight,645.20,ProInsight tool for advanced network performance analysis,monitoring,4.8,220
+63701d25f03239d5910003e7,Router-VelocityMax,749.99,VelocityMax router for high-speed internet performance,networking,4.78,270
+63701d25f03239d5910003e8,Server-DataComputeElite,1385.50,DataComputeElite server for elite-level computing needs,compute,4.83,190
+63701d25f03239d5910003e9,Storage-PowerSSD,1155.20,PowerSSD for high-capacity and speed storage,storage,4.82,240
+63701d25f03239d5910003ea,PowerManager-NextGenPower,399.75,NextGenPower unit for cutting-edge energy management,power management,4.71,320
+63701d25f03239d5910003eb,DataCenterCooling-CoolerX,840.90,CoolerX cooling system for optimal data center climate control,accessories,4.76,230
+63701d25f03239d5910003ec,NetworkSwitch-UltraNet,755.20,UltraNet switch for advanced network connectivity,networking,4.78,250
+63701d25f03239d5910003ed,Firewall-SecurityMaster,1230.50,SecurityMaster firewall for top-tier network protection,security,4.89,140
+63701d25f03239d5910003ee,Monitoring-NetGuard,610.35,NetGuard monitoring tool for enhanced network visibility,monitoring,4.82,220
+63701d25f03239d5910003af,Router-MaxSpeed,890.99,MaxSpeed router for maximum network throughput,networking,4.85,250
+63701d25f03239d5910003b0,Server-DataServerPro,1280.30,DataServerPro for professional-grade data management,compute,4.8,190
+63701d25f03239d5910003b1,Storage-SSDUltra,1105.70,Ultra SSD for high-speed data access and storage,storage,4.82,230
+63701d25f03239d5910003b2,PowerManager-PowerBoost,385.60,PowerBoost management system for enhanced power control,power management,4.75,320
+63701d25f03239d5910003b3,DataCenterCooling-PremiumCool,790.55,PremiumCool system for superior cooling efficiency,accessories,4.73,210
+63701d25f03239d5910003b4,NetworkSwitch-HighCapacity,699.45,HighCapacity switch designed for large networks,networking,4.77,260
+63701d25f03239d5910003b5,Firewall-SecureWave,1225.60,SecureWave firewall with enhanced protection features,security,4.89,140
+63701d25f03239d5910003b6,Monitoring-CompleteGuard,580.75,CompleteGuard tool for comprehensive network monitoring,monitoring,4.8,220
+63701d25f03239d5910003b7,Router-FiberOptic,745.00,FiberOptic router for ultra-fast internet connectivity,networking,4.81,270
+63701d25f03239d5910003b8,Server-ComputeMaster,1365.55,ComputeMaster server for high-efficiency computing,compute,4.84,180
+63701d25f03239d5910003b9,Storage-DataVault,1130.40,DataVault storage for secure and reliable data handling,storage,4.8,240
+63701d25f03239d5910003ba,PowerManager-EnergyGuard,420.75,EnergyGuard power unit for optimal energy usage,power management,4.73,310
+63701d25f03239d5910003bb,DataCenterCooling-ExtremeCool,850.25,ExtremeCool system for high-performance cooling,accessories,4.78,220
+63701d25f03239d5910003bc,NetworkSwitch-EnterpriseSwitch,785.00,EnterpriseSwitch with advanced networking capabilities,networking,4.79,250
+63701d25f03239d5910003bd,Firewall-TotalProtect,1150.90,TotalProtect firewall for all-encompassing network security,security,4.88,160
+63701d25f03239d5910003be,Monitoring-AdvancedMonitor,596.40,AdvancedMonitor for detailed network performance analysis,monitoring,4.82,210
+63701d25f03239d5910003bf,Router-VirtualConnect,799.99,VirtualConnect router for enhanced virtual networking,networking,4.76,280
+63701d25f03239d5910003c0,Server-PowerBlade,1420.70,PowerBlade server for intensive computing tasks,compute,4.85,170
+63701d25f03239d5910003c1,Storage-NextGenSSD,1120.60,NextGen SSD with next-level performance and reliability,storage,4.83,230
+63701d25f03239d5910003c2,PowerManager-TotalEnergy,430.90,TotalEnergy power management for comprehensive power control,power management,4.71,300
+63701d25f03239d5910003c3,DataCenterCooling-CoolMaster,885.10,CoolMaster cooling system for exceptional temperature control,accessories,4.77,240
+63701d25f03239d5910003c4,NetworkSwitch-SuperNet,695.20,SuperNet switch for high-performance network management,networking,4.8,260
+63701d25f03239d5910003c5,Firewall-NetSafe,1190.85,NetSafe firewall for robust network protection,security,4.87,150
+63701d25f03239d5910003c6,Monitoring-NetInsight,612.30,NetInsight monitoring tool for detailed network visibility,monitoring,4.84,230
+63701d25f03239d5910003c7,Router-HighRange,720.50,HighRange router for extended network coverage,networking,4.72,270
+63701d25f03239d5910003c8,Server-CloudServerElite,1400.40,CloudServerElite for superior cloud computing,compute,4.86,180
+63701d25f03239d5910003c9,Storage-HighSpeedSSD,1075.90,HighSpeed SSD for rapid data access and performance,storage,4.79,240
+63701d25f03239d5910003ca,PowerManager-OptimalPower,399.95,OptimalPower unit for efficient energy management,power management,4.74,320
+63701d25f03239d5910003cb,DataCenterCooling-SuperCool,805.25,SuperCool system for advanced cooling solutions,accessories,4.75,230
+63701d25f03239d5910003cc,NetworkSwitch-TopTier,740.40,TopTier switch for high-capacity networking,networking,4.8,250
+63701d25f03239d5910003cd,Firewall-CompleteSecure,1215.90,CompleteSecure firewall for comprehensive network defense,security,4.88,140
+63701d25f03239d5910003ce,Monitoring-TotalView,645.60,TotalView monitoring tool for complete network insights,monitoring,4.82,220
+63701d25f03239d5910003cf,Router-ExtremeSpeed,849.99,ExtremeSpeed router for unparalleled data transfer rates,networking,4.8,280
+63701d25f03239d5910003d0,Server-UltraCompute,1395.70,UltraCompute server for high-performance computing,compute,4.83,190
+63701d25f03239d5910003d1,Storage-PremiumDrive,1150.30,PremiumDrive for high-capacity and reliable storage,storage,4.82,250
+63701d25f03239d5910003d2,PowerManager-TotalControl,410.90,TotalControl power unit for advanced energy management,power management,4.71,310
+63701d25f03239d5910003d3,DataCenterCooling-OptimalCool,825.70,OptimalCool cooling system for efficient data center temperature regulation,accessories,4.76,220
+63701d25f03239d5910003d4,NetworkSwitch-SuperSpeedNet,710.25,SuperSpeedNet switch for high-performance networking,networking,4.79,260
+63701d25f03239d5910003d5,Firewall-TotalDefense,1185.90,TotalDefense firewall with extensive security features,security,4.87,150
+63701d25f03239d5910003d6,Monitoring-PrimeInsight,625.55,PrimeInsight monitoring tool for in-depth network analysis,monitoring,4.81,230
+63701d25f03239d5910003d7,Router-GlobalConnect,759.00,GlobalConnect router for worldwide network accessibility,networking,4.77,270
+63701d25f03239d5910003d8,Server-HighPerformanceBlade,1345.80,HighPerformanceBlade server for efficient computing,compute,4.84,180
+63701d25f03239d5910003d9,Storage-DataSafe,1215.45,DataSafe storage for secure and dependable data management,storage,4.81,230
+63701d25f03239d5910003da,PowerManager-EnergyMaster,399.00,EnergyMaster for effective power management and control,power management,4.73,320
+63701d25f03239d5910003db,DataCenterCooling-CoolerPro,865.30,CoolerPro cooling system for advanced data center cooling,accessories,4.78,210
+63701d25f03239d5910003dc,NetworkSwitch-VisionNet,685.60,VisionNet switch for enhanced network performance,networking,4.8,250
+63701d25f03239d5910003dd,Firewall-CyberShield,1170.90,CyberShield firewall for top-notch network security,security,4.86,160
+63701d25f03239d5910003de,Monitoring-InsightPlus,590.70,InsightPlus tool for comprehensive network performance tracking,monitoring,4.82,220
+63701d25f03239d5910003df,Router-SuperRange,770.00,SuperRange router for extended connectivity and coverage,networking,4.75,260
+63701d25f03239d5910003e0,Server-PremiumCompute,1415.90,PremiumCompute server for high-capacity computing tasks,compute,4.87,190
+63701d25f03239d5910003e1,Storage-TopTierDrive,1099.40,TopTierDrive for high-speed and reliable data storage,storage,4.79,250
+63701d25f03239d5910003e2,PowerManager-MaxEfficiency,420.90,MaxEfficiency unit for superior energy management,power management,4.72,310
+63701d25f03239d5910003e3,DataCenterCooling-UltraCool,900.55,UltraCool cooling system for advanced temperature control,accessories,4.74,220
+63701d25f03239d5910003e4,NetworkSwitch-AdvancedNet,725.30,AdvancedNet switch for high-efficiency networking,networking,4.77,260
+63701d25f03239d5910003e5,Firewall-CompleteGuard,1195.85,CompleteGuard firewall for comprehensive network protection,security,4.88,150
+63701d25f03239d5910003e6,Monitoring-ProInsight,645.20,ProInsight tool for advanced network performance analysis,monitoring,4.8,220
+63701d25f03239d5910003e7,Router-VelocityMax,749.99,VelocityMax router for high-speed internet performance,networking,4.78,270
+63701d25f03239d5910003e8,Server-DataComputeElite,1385.50,DataComputeElite server for elite-level computing needs,compute,4.83,190
+63701d25f03239d5910003e9,Storage-PowerSSD,1155.20,PowerSSD for high-capacity and speed storage,storage,4.82,240
+63701d25f03239d5910003ea,PowerManager-NextGenPower,399.75,NextGenPower unit for cutting-edge energy management,power management,4.71,320
+63701d25f03239d5910003eb,DataCenterCooling-CoolerX,840.90,CoolerX cooling system for optimal data center climate control,accessories,4.76,230
+63701d25f03239d5910003ec,NetworkSwitch-UltraNet,755.20,UltraNet switch for advanced network connectivity,networking,4.78,250
+63701d25f03239d5910003ed,Firewall-SecurityMaster,1230.50,SecurityMaster firewall for top-tier network protection,security,4.89,140
+63701d25f03239d5910003ee,Monitoring-NetGuard,610.35,NetGuard monitoring tool for enhanced network visibility,monitoring,4.82,220
+
+
+
+
+
+
