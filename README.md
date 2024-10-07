@@ -1,5 +1,5 @@
 
-# Node & Data Center Management Dashboard
+# MERN user Dashboard
 
 ## Project Overview
 This project is a user dashboard designed to manage and display data about nodes and data centers. It features a dynamic map, interactive charts, and a chatbot to assist users with information related to node details and configurations.
